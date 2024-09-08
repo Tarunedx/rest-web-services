@@ -18,7 +18,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import jakarta.validation.Valid;
 
-@RestController
+//@RestController
 public class UserResource {
 	
 	private UserDaoService service;
